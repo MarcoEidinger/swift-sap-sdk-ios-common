@@ -1,3 +1,3 @@
-# swift-sap-sdk-ios-common
+# SAPCommon
 
 A description of this package.

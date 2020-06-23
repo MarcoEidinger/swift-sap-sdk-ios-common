@@ -1,12 +1,12 @@
 import XCTest
-@testable import swift_sap_sdk_ios_common
+@testable import SAPCommon
 
-final class swift_sap_sdk_ios_commonTests: XCTestCase {
+final class SAPCommonTests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(swift_sap_sdk_ios_common().text, "Hello, World!")
+        XCTAssertEqual(SAPCommon().text, "Hello, World!")
     }
 
     static var allTests = [
